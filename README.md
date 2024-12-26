@@ -21,7 +21,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, Django, Laravel etc.
+- 🛠 &nbsp; I’m currently working with NestJs, React, <br /> React Narive Javascript, Django, Laravel etc.
 - 🚀 &nbsp; I’m currently Upskilling my Full Stack Developer Skills.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/apps-mahmudbakale).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/apps-mahmudbakale/issues/)! I am happy to help.
@@ -43,7 +43,7 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
+<code><img height="27" src="https://camo.githubusercontent.com/4b0000b8e7a6449a924fe0212093b9f3936ef80cc8fdfbb770baad58f58b8c2c/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667" alt="nestjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
@@ -78,7 +78,7 @@ Like My Work?
 	    <li><b>Laptop: </b> Macbook Pro 2020 (i7, 16GB, 1TB) </li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>Code Editor:</b> IntelliJ.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
 	</ul>	
